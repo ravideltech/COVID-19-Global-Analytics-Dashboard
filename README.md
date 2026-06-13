@@ -25,8 +25,7 @@ Source: Our World In Data (OWID)
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
-
+![Dashboard](Images/Dashboard.png)
 ## Key Features
 
 - Interactive country filter
